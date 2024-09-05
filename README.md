@@ -1,7 +1,4 @@
-#!/bin/bash
 
-# Create a README.md file with setup and run instructions
-cat <<EOF > README.md
 # Scheduler System
 
 ## Overview
