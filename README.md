@@ -107,7 +107,7 @@ This repository contains a scheduling system with features for managing and sche
 
 1. **Clone the Repository:**
    \`\`\`bash
-   git clone https://github.com/your-repo/scheduler-system.git
+   git clone https://github.com/Mukulraj109/Scheduler-System.git
    cd scheduler-system
    \`\`\`
 
